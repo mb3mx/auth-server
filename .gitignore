@@ -1,0 +1,14 @@
+*.class
+*.settings
+*.project
+*.classpath
+.springBeans
+.tern-project
+.lck
+target
+received-emails
+
+# Package Files #
+*.jar
+*.war
+*.ear
