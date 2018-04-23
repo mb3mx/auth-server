@@ -13,4 +13,10 @@
 	</properties>
 
 
+	<modules>
+		<module>oauth2-model</module>
+		<module>oauth2-dao</module>
+		<module>oauth2-service</module>
+		<module>oauth2-server</module>
+	</modules>
 </project>
