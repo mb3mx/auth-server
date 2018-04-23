@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>mx.com.mb3</groupId>
+	<artifactId>auth-server</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<properties>
+		<spring.version>4.3.16.RELEASE</spring.version>
+		<spring-security.version>4.2.5.RELEASE</spring-security.version>
+		<spring-oauth2.version>2.3.2.RELEASE</spring-oauth2.version>	
+	</properties>
+
+
+</project>
